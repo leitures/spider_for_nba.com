@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/new_spider/getPlayoffPlayer.py=utf-8
+encoding//src/new_spider/getPlayoffTeam.py=utf-8
+encoding//src/new_spider/getRegularPlayer.py=utf-8
+encoding//src/new_spider/getRegularTeam.py=utf-8
+encoding//src/new_spider/getTeamInfo.py=utf-8
+encoding//src/spider_v2/getRugularPlayer.py=utf-8
+encoding//src/spider_v2/playoffplayer.py=utf-8
+encoding//src/spider_v2/playoffteam.py=utf-8
+encoding//src/spider_v2/regularplayer.py=utf-8
+encoding//src/spider_v2/spiderWithDb.py=utf-8
+encoding//src/spider_v2/teaminfo.py=utf-8
+encoding//src/spider_v2/testSQL.py=utf-8
+encoding//src/spider_v3/getRegularPlayer.py=utf-8
+encoding//src/spider_v3/getRugularPlayer_TEMP.py=utf-8
+encoding//src/teaminfo/getRegularPlayer.py=utf-8
